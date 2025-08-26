@@ -6,5 +6,11 @@
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
 
-📱 Demonstração  
+
+<h2>🎯 Funcionalidades</h2>
+<p>✔️Layout responsivo e interativo;</p>
+<p>✔️Seções organizadas de forma clara;</p>
+<p>✔️Botão de ação chamativo para engajar o usuário.</p>
+  
+<h2>📱 Demonstração</h2>
 <a href="https://marianaasoares.github.io/projeto-we-care/">Clique e acesse o projeto!</a>
